@@ -1,0 +1,63 @@
+ I shared the drive link which was the dataset and trained model 
+and I shared the zip file which was the story to game folder(contains:assets,venv,code file(app.py),models)
+extract the zip file
+
+in vscode open folder which was sent as the zip file(after extract) it was the folder named story to game
+put the folder in desktop
+
+after it opens when it shows the code,
+open terminal
+
+cd "C:\Users\YourName\Desktop\StoryToGame"
+paste this with your name 
+it is used to Navigate into your project folder (where app.py is located)
+
+after 
+ to Activate your virtual environment
+paste this in terminal:
+.\venv\Scripts\activate
+
+after
+paste this in terminal to Install required Python libraries (only once):
+pip install pygame joblib scikit-learn
+
+after 
+paste this:
+cd C:\Users\Yourname\OneDrive\Desktop\StoryToGame
+
+atlast 
+paste this to run the code:
+python app.py
+
+after execution it pop up the window 
+it shows the default story clear that or (you can play with that also) 
+if you cleared the default story then
+in there enter this any following story:
+
+for knight game:
+controls:(A-attack , space bar-jump , use arrows to move(left,right))
+
+The knight starts in the forest, journeys across the desert, and finally reaches the tomb of mummies.
+
+A brave knight must cross the hot desert, where hyenas attack near the cactus fields.
+
+The knight travels into the dark forest and fights snakes before reaching the castle.
+
+In the haunted graveyard, mummies rise from the tomb to stop the hero before the castle.
+
+
+for space shooting game:
+controls:(space bar-shoot , use arrows to move(left,right,up,down))
+
+A fleet of ships clears orbit, survives the asteroid belt, and finally fights the alien boss in the nebula.
+
+In deep space, the hero faces the alien mothership boss near a glowing nebula.
+
+The pilot enters an asteroid belt where drones attack from all sides.
+
+The spaceship defends Earth in outer space and shoots alien invaders.
+
+
+
+ 
+
